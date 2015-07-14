@@ -19,7 +19,7 @@ import gdb
 import os
 import os.path
 
-pythondir = '/home/christopher/Development/toolchain-builds/arm-cortex-linux-gnueabi/share/gcc-4.9.3/python'
+pythondir = '/home/christopher/Development/toolchain-builds/arm-cortex-linux-gnueabi/share/gcc-4.9.4/python'
 libdir = '/home/christopher/Development/toolchain-builds/arm-cortex-linux-gnueabi/arm-cortex-linux-gnueabi/lib'
 
 # This file might be loaded when there is no current objfile.  This
